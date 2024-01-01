@@ -6,3 +6,4 @@ To run this project first:
 3. Enter cd path/of/file
 4. Next do chmod +x stream.sh to make exec
 5. type : ./stream.sh to run :)
+Remember if you have a problem or could help with the code email me at : winnerstudio607@gmail.com
