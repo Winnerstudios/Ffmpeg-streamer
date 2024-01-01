@@ -39,7 +39,6 @@ else
  echo "Facebook  live streaming is still under development :)"
 fi
 #stream strart
-echo "Starting Stream ..."
-trap 'echo "Stream has ended i Hope you enjoyed your stream"; exit' SIGINT
+echo "ended"
 
 
