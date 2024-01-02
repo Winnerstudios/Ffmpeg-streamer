@@ -37,8 +37,8 @@ if [[ $userinput == "1" ]]; then
 
 else
  echo "Facebook  live streaming is still under development :)"
-fi
-#stream strart
+ #stream End
 echo "ended"
+fi
 
 
